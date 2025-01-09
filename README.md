@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Luis Daniel and I'm currently studying to become a Data Analyst.
+I'm from Mexico but I can speak english fluently, so no language barrier here!
+
+I'm new to this world of programming, and I'm also really excited to see what I can achieve with some dedication and patience.
+
+Hopefully we get to collaborate someday!
+
 <!--
 **Gubato/Gubato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
