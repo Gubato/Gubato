@@ -1,9 +1,24 @@
 ## Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 My name is Luis Daniel and I'm currently studying to become a Data Analyst.
 I'm from Mexico but I can speak english fluently, so no language barrier here!
 
-I'm new to this world of programming, and I'm also really excited to see what I can achieve with some dedication and patience.
+  - I just finished my Data Analysis bootcamp @TripleTenLatAm and I'm excited to keep growing as a DA. 
+  - I'm currently looking for even more data courses and I'm interested in learning R programming.
+  - I have interest on any tech stuff and I love videogames (FPS most of all).
+  - Most of my code is made with a cup of coffee right beside me.
+
+| SKILLSET | LISTING |
+|-----:|---------------|
+|PYTHON|EXCEL|
+|TABLEAU|POWERBI|
+|CANVA (Why not)|MICROSOFT OFFICE|
 
 Hopefully we get to collaborate someday!
 
