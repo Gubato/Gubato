@@ -9,7 +9,7 @@
 <h2 align="center">👋 Hello world! 👋</h2>
 
 <p align="center">
-  My name is <strong>Luis Daniel</strong> and I'm currently studying to become a <strong>Data Analyst</strong>.<br>
+  My name is <strong>Luis Daniel</strong> and I'm interested in <strong> data analytics and data storytelling</strong>.<br>
   I'm from 🇲🇽 Mexico and I speak English fluently — so no language barriers here! 🌎✨
 </p>
 
