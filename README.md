@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/Gubato/Gubato/blob/main/dark_mode.png)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/Gubato/Gubato/blob/main/light_mode.png)">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
@@ -16,9 +16,9 @@ I'm from Mexico but I can speak english fluently, so no language barrier here!
 
 | SKILLSET | LISTING |
 |-----:|---------------|
-|PYTHON|EXCEL|
+|PYTHON|SQL|
 |TABLEAU|POWERBI|
-|CANVA (Why not)|MICROSOFT OFFICE|
+|GOOGLE WORKSPACE|MICROSOFT OFFICE|
 
 Hopefully we get to collaborate someday!
 
