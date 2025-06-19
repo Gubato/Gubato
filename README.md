@@ -41,3 +41,7 @@
   🙌 Hopefully we get to <strong>collaborate</strong> someday!<br>
   Let’s grow and learn together 🚀
 </p>
+<br>
+<h2 align="center">
+  Check out my projects! ➡️ <a href="https://github.com/Gubato/Data-Analysis/tree/main" target="_blank">HERE</a>
+</h2>
