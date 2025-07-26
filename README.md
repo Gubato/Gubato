@@ -7,11 +7,11 @@
   </picture>
 </p>
 
-<h2 align="center">🙋‍♂️ Daniel Gutiérrez 🙋‍♂️</h2>
+<h2 align="center"> Hello world! I'm Daniel Gutiérrez 🙋‍♂️ </h2>
 <h3 align="center"> 📈 Data Analyst | Data Visualization | Statistics | ETL | Python | SQL | Tableau 🖥️ </h3>
 
 <p align="center">
-  My name is <strong>Luis Daniel</strong> and I'm interested in <strong> data analytics and data storytelling</strong>.<br>
+  Welcome to my GitHub profile! I'm an audio engineer who made a huge leap into data analytics and here I am now! I'm interested in anything that involves tech around it, I love being a detective and finding interesting conclusions surrounding big data. I'm driven by learning new things everyday and become the best I can be at my job.
   I'm from 🇲🇽 Mexico and I speak English fluently — so no language barriers here! 🌎✨
 </p>
 
