@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3a3cafad-9385-47c2-9747-166508f10f69">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6e1df3c2-e033-4ad2-88e2-5b1174e1baf1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gubato/Gubato/blob/main/stats.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gubato/Gubato/blob/main/stats.jpg">
     <img alt="Luis Daniel Banner" src="https://github.com/user-attachments/assets/6e1df3c2-e033-4ad2-88e2-5b1174e1baf1">
   </picture>
 </p>
