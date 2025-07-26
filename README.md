@@ -11,8 +11,8 @@
 <h3 align="center"> 📈 Data Analyst | Data Visualization | Statistics | ETL | Python | SQL | Tableau 🖥️ </h3>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm an audio engineer who made a huge leap into data analytics and here I am now! I'm interested in anything that involves tech around it, I love being a detective and finding interesting conclusions surrounding big data. I'm driven by learning new things everyday and become the best I can be at my job.
-  I'm from 🇲🇽 Mexico and I speak English fluently — so no language barriers here! 🌎✨
+  Welcome to my GitHub profile! I'm an audio engineer who made a huge leap into data analytics and here I am now! I'm interested in anything that involves tech around it, I love being a detective and finding interesting conclusions surrounding big data. I'm driven by learning new things everyday and become the best I can be at my job. </p>
+ <p align="center"> I'm from 🇲🇽 Mexico and I speak English fluently — so no language barriers here! 🌎✨
 </p>
 
 ---
