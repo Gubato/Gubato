@@ -2,7 +2,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gubato/Gubato/blob/main/stats.jpg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gubato/Gubato/blob/main/stats.jpg">
-    <img alt="Luis Daniel Banner" src="https://github.com/user-attachments/assets/6e1df3c2-e033-4ad2-88e2-5b1174e1baf1">
+    <img alt="Luis Daniel Banner" src="https://github.com/user-attachments/assets/6e1df3c2-e033-4ad2-88e2-5b1174e1baf1" width="600" <!-- puedes ajustar este valor -->>
+    
   </picture>
 </p>
 
