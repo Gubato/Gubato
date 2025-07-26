@@ -7,8 +7,8 @@
   </picture>
 </p>
 
-<h2 align="center">Daniel Gutiérrez</h2>
-<h3 align="center">Data Analyst | Data Visualization | Statistics | ETL | Python | SQL | Tableau </h3>
+<h2 align="center">🙋‍♂️ Daniel Gutiérrez 🙋‍♂️</h2>
+<h3 align="center"> 📈 Data Analyst | Data Visualization | Statistics | ETL | Python | SQL | Tableau 🖥️ </h3>
 
 <p align="center">
   My name is <strong>Luis Daniel</strong> and I'm interested in <strong> data analytics and data storytelling</strong>.<br>
